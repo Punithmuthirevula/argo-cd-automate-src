@@ -64,7 +64,7 @@
       </plugins>
     </pluginManagement>
   </build>
-  <distributionManagement>
+  <!-- <distributionManagement>
           <repository>
             <id>maven-releases</id>
             <url>http://10.228.241.120:8081/repository/maven-releases/</url>
@@ -87,6 +87,6 @@
         </repository>
 
     
-  </repositories>
+  </repositories> -->
 
 </project>
